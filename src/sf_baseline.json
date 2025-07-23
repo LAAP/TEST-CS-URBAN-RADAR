@@ -1,0 +1,25 @@
+{
+  "parks_per_1000": 4.1,
+  "parkland_pct_city_area": 21.4,
+  "park_access_pct": 100,
+  "water_pipe_miles_per_capita": 0.0022,
+  "water_investment_per_capita": 97,
+  "sewer_miles_per_capita": 0.0015,
+  "electricity_per_capita_kwh": 12000,
+  "transit_stops_per_km2": 8.5,
+  "transit_grade": "D",
+  "safety_staff_per_1000": 2.5,
+  "safety_cost_per_capita": 800,
+  "health_facilities_per_1000": 0.8,
+  "health_spending_per_capita": 9000,
+  "population": 815201,
+  "area_km2": 121.4,
+  "amenities": 1220,
+  "demographics": {
+    "students": 0.15,
+    "entrepreneurs": 0.10,
+    "workers": 0.35,
+    "families": 0.30,
+    "highIncome": 0.10
+  }
+} 
